@@ -1,5 +1,10 @@
 { 	"accessToken": "12345abc",
 	"deviceName": "donut_maker",
 	"user": "bla@blah.com", 
-	"password": "abcdef"
+	"password": "abcdef",
+	"host": "imap.gmail.com",
+	"port": 993,
+	"tls": true,
+	"checkEvery": 60,
+	"emailCountMax": 11
 }
